@@ -50,7 +50,7 @@
 						<div id="maconnerie"></div>
 						<h2>Entité Terrassement/fond</h2>
 						<hr class="separateur6">
-						<p>...</p>
+						<p>Pleins de trucs super !</p>
 						<h2>Entité Voirie</h2>
 						<hr class="separateur6">
 						<p>...</p>
